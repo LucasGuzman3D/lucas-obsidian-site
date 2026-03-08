@@ -1,0 +1,11 @@
+# Lucas Guzman — Portfolio
+
+Lucas Guzman is a designer with 15 years of experience in motion design,
+realtime engines, 3D, and interactive experiences, transitioning into
+product design with a focus on fintech, consumer crypto, and gamification.
+
+## Key pages
+
+- [Home](https://lucasguzman3d.github.io/lucas-obsidian-site): Overview and positioning
+- [Projects](https://lucasguzman3d.github.io/lucas-obsidian-site/projects): Full case study index
+- [About](https://lucasguzman3d.github.io/lucas-obsidian-site/about): Background and approach
