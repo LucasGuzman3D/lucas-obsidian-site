@@ -1,3 +1,6 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Hide the explorer toggle button — nav is always visible
+button.title-button.explorer-toggle.desktop-explorer {
+  display: none;
+}
