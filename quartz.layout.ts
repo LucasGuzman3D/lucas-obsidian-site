@@ -19,14 +19,9 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        { Component: Component.Darkmode() },
-      ],
-    }),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.name === "projects" || node.name === "about",
+      filterFn: (node) => node.slug.startsWith("projects") || node.slugSegment === "about",
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),
@@ -40,14 +35,9 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Flex({
-      components: [
-        { Component: Component.Darkmode() },
-      ],
-    }),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.name === "projects" || node.name === "about",
+      filterFn: (node) => node.slug.startsWith("projects") || node.slugSegment === "about",
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),
