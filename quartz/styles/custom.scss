@@ -14,12 +14,19 @@ button.title-button.explorer-toggle.desktop-explorer {
   display: none;
 }
 
-// Bulevar headings: uppercase + boosted sizes
+// Bulevar headings: uppercase, solid color, no shadow
 h1, h2, h3, h4, h5, h6, .page-title {
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
+  color: var(--dark) !important;
+  text-shadow: none !important;
+  -webkit-text-fill-color: var(--dark);
 }
 
-h1 { font-size: 2.2rem; }
-h2 { font-size: 1.6rem; }
-h3 { font-size: 1.25rem; }
+h1 { font-size: 2.4rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.35rem; }
+
+.page-title {
+  font-size: 1.4rem;
+}
