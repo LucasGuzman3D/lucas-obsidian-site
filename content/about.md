@@ -1,117 +1,39 @@
 ---
 title: "About"
 date: 2024
-status: needs-rewrite
-tags: [portfolio, project]
+status: draft
+tags:
+  - portfolio
+  - about
 publish: true
 ---
 
 # About
 
-## Original content (scraped from Framer)
+I'm Lucas Guzman, a product designer with 15 years of making technology feel alive through motion, real-time 3D, and AR. I'm now focused on designing products for early-stage startups where I can own the experience end-to-end.
 
-LUCAS GUZMAN
-LUCAS GUZMAN
-THE DIGITAL ALCHEMIST
+## Background
 
-Hello! Welcome to the world of Lucas Guzman, an Amsterdam-Barcelona-based Argentinian self-taught Freelance Technical Artist with a vibrant +15-year journey in digital media production. My expertise lies at the heart of real-time engines, encompassing AR, VR, the Metaverse, gaming, and digital fashion. I'm not just a GameDev and NFT artist; I'm also a speaker, researcher, and futurist with a lifelong passion for innovation.
+I've spent my career at the intersection of creative craft and technical systems. I started as a self-taught 3D artist in Argentina at 12, was hired remotely by an Amsterdam fashion company at 17, and presented my first major production during a fashion show in Amsterdam at 18. All before any formal training existed for what I was doing.
 
-My creative journey began in childhood, sketching comics and animating in MS-DOS. At the age of 12, I found out about 3D design with 3Dsmax 2.5.
-By 17, I was hired to work remotely for an Amsterdam-based fashion company, and at 18 I presented my first big film during a fashion show in the heart of Amsterdam.
-From Argentina I worked remotely on 3D printing, prototyping, showroom animations, and marketing movies, relentlessly self-educating in a landscape devoid of formal 3D animation education.
+That path took me through fashion visualization, indie games, and eventually Capitola Digital, where I worked on VR experiences, AR marketing, motion capture, and medical simulations. In the blockchain era, I designed for crypto companies and built my own NFT art practice. At Sophon, a DeFi startup, my role expanded from craft into product psychology, gamification, and systems thinking: designing how users understand and interact with complex financial products.
 
-At 24, Amsterdam became my new home, furthering my journey in fashion before a pivotal transition to the gaming industry. 
-By 28, I started working as a freelancer creating art for indie games, which led me to be hired by Capitola Digital. There, I dived deep into marketing experiences using the latest in tech: VR games, VR for medical experiences, AR Marketing, 360 films, motion capture, photogrammetry and 3D printing. 
-2015 marks the start of my blockchain path. Humble beginnings designing for Crypto companies until eventually I was able to sell my own NFT art.
-The years 2020 and 2021 were transformative for my career, as the NFT and Metaverse hype unlocked new opportunities for my passion: bridging art and technology.
-In 2022, I finally received my Dutch citizenship, which marks a life changing point for me. As a Latinamerican artist with no European citizenship, having the chance to work in an advanced country as the Netherlands with a highly skilled migrant visa is one of my biggest achievements.
-2023 was the year where I learned how to run and be founder of several companies. My own, LOVEKRAVT and Code Couture. All of that while working for my new base in Barcelona.
+## Why product design
 
-That is my story… so far.
+Fifteen years of building real-time experiences gave me something most product designers don't have: deep intuition for how things move, how transitions communicate state, how spatial relationships create clarity, and how to make abstract systems feel concrete and alive. That's not separate from product design. It's the core of it.
 
-Thank you for taking the time to read about my story!
-I really hope you enjoy my work.
+At Sophon I realized I wasn't just making things look good or move well. I was designing how people understand information, make decisions, and build trust with a product. The pivot into product design isn't a reinvention. It's the natural next step of work that was always heading in this direction.
 
-AWARDS
+## What I bring to a startup
 
-ADCN Dutch Creativity Award 2020
-Senior 3D artist at Capitola Digital
+- **Systems thinking.** I design workflows and architectures, not just screens. The AI Marketing Intern tool I built for Sophon is a multi-agent content pipeline, not a chatbot with a prompt.
+- **Technical fluency.** I build with code when it makes sense. I've shipped tools using Claude API, LangGraph, and real-time engines. I can talk to engineers in their language.
+- **Craft depth.** 15 years of motion and 3D means I have strong opinions about how interfaces should feel, not just how they should look.
+- **Ambiguity tolerance.** I've worked at companies with no design team, no design system, and no clear brief. I'm used to defining the problem before solving it.
 
-Rembrandt Reality ↗
+## Awards
 
-Grand Prix Des Strategies Digitales 2023
-Character Design for Swipe Back for Ledger
-
-“Ledger – School of block” ↗
-
-European Blockchain Convention 2023
-Character Design for Hackaton
-
-Coreum's GuildHUB ↗
-
-Meta's Creator of Tomorrow 2022
-
-Content Creator for New Media and Tech
-
-Official Site ↗
-
-MEDIA, EXHIBITS AND EXPOSITIONS
-LOVEKRAVT'S WEEKLY MEETUP
-
-During 2021 and 2022 I was the host of a weekly meetup that took place on LOVEKRAVT's Discord. We dived deep into all kinds of digital trends. From NFTs in the Metaverse to AI tools for Fashion Design.
-
-As their host, I would lead the conversation to be about learning from each other, and to inspire one another.
-
-RGB.XYZ 2021
-
-I showcased several AR experiences to explore the idea of a future in which your clothes will have their Metaverse twin attached to them.
-
-Some users chose to wear realistic fashion garments, while others preferred to be ready to explore dangerous worlds wearing metal armour.
-
-CREATORS OF TOMORROW 2022
-
-As one of the chosen Dutch creators of tomorrow by Meta, I took part in several events that connected us with Meta partners in order to create specialized social content.
-
-MY INCREDIBLE NETWORK
-
-One aspect I'm particularly proud of is my incredible network. And when I say incredible, I mean a collection of EXTREMELY talented freelancers, artists, and developers. Each person in my circle brings something unique to the table, combining skill, creativity, and passion.
-
-GO TO TEAM PAGE➦
-LET’S BUILD TOGETHER
-
-Contact
-
-Overview
-
-Home
-
-Service
-
-Project
-
-About Me
-
-About Team
-
-Testimonial
-
-Contact
-
-Socials
-
-Twitter
-
-Linkedin
-
-Instagram
-
-© 2024 LucasGuzman3D
-
-Terms and Conditions
-
-Privacy Policy
-
-## Notes for rewrite
-
-This content was scraped from the original Framer portfolio and needs to be
-rewritten to reflect Lucas's product design narrative and new positioning.
+- **ADCN Dutch Creativity Award 2020.** Senior 3D Artist at Capitola Digital, Rembrandt Reality.
+- **Grand Prix Des Strategies Digitales 2023.** Character Design for Ledger's "School of Block" (via Swipe Back).
+- **European Blockchain Convention 2023.** Character Design, Coreum's GuildHUB Hackathon.
+- **Meta Creator of Tomorrow 2022.** Content Creator for New Media and Technology.

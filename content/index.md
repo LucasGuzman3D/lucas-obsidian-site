@@ -1,12 +1,12 @@
 ---
 title: Home
 date: 2024
-status: needs-rewrite
+status: draft
 tags:
 publish: true
 ---
 # Home
 
-15 years making technology feel alive (motion, realtime, 3D) + product psychology, gamification, and strategic thinking.
+15 years making technology feel alive through motion, real-time 3D, and AR. Now designing products for early-stage startups.
 
-*A **product designer** who builds experiences that move people, literally and psychologically.*
+*I build systems and experiences that make complex things feel simple, concrete, and alive. Currently looking for a **product designer** role where I can own the experience end-to-end.*
