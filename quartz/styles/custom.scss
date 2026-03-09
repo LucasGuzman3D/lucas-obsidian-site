@@ -34,11 +34,10 @@ h3 { font-size: 1.35rem; }
   margin: 0;
 }
 
-// Left sidebar: all links and nav text in Helvetica
-.sidebar.left {
+// Left sidebar: nav links in Helvetica (page title keeps Bulevar)
+.sidebar.left .explorer-content a,
+.sidebar.left .explorer-content button,
+.sidebar.left .explorer-content span {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-
-  a, button, span {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
+  text-transform: none;
 }
