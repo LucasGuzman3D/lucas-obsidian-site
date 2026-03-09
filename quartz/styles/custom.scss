@@ -17,16 +17,28 @@ button.title-button.explorer-toggle.desktop-explorer {
 // Bulevar headings: uppercase, solid color, no shadow
 h1, h2, h3, h4, h5, h6, .page-title {
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.01em;
   color: var(--dark) !important;
   text-shadow: none !important;
   -webkit-text-fill-color: var(--dark);
 }
 
-h1 { font-size: 2.4rem; }
+h1 { font-size: 3rem; margin-bottom: 0; }
 h2 { font-size: 1.8rem; }
 h3 { font-size: 1.35rem; }
 
 .page-title {
-  font-size: 1.4rem;
+  font-size: 5rem;
+  line-height: 3.7rem;
+  padding-top: 12px;
+  margin: 0;
+}
+
+// Left sidebar: all links and nav text in Helvetica
+.sidebar.left {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  a, button, span {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  }
 }
