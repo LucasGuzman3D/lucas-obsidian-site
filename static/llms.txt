@@ -6,6 +6,6 @@ product design with a focus on fintech, consumer crypto, and gamification.
 
 ## Key pages
 
-- [Home](https://lucasguzman3d.github.io/lucas-obsidian-site): Overview and positioning
-- [Projects](https://lucasguzman3d.github.io/lucas-obsidian-site/projects): Full case study index
-- [About](https://lucasguzman3d.github.io/lucas-obsidian-site/about): Background and approach
+- [Home](https://lucasguzman.dev): Overview and positioning
+- [Projects](https://lucasguzman.dev/projects): Full case study index
+- [About](https://lucasguzman.dev/about): Background and approach
