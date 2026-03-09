@@ -1,5 +1,14 @@
 @use "./base.scss";
 
+@font-face {
+  font-family: "Bulevar";
+  src: url("/static/fonts/bulevar-regular-webfont.woff2") format("woff2"),
+       url("/static/fonts/bulevar-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 // Hide the explorer toggle button — nav is always visible
 button.title-button.explorer-toggle.desktop-explorer {
   display: none;
