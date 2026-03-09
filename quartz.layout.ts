@@ -21,7 +21,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.slug.startsWith("projects") || node.slugSegment === "about",
+      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about",
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),
@@ -37,7 +37,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.slug.startsWith("projects") || node.slugSegment === "about",
+      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about",
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),
