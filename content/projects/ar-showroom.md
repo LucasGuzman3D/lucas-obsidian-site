@@ -1,9 +1,11 @@
 ---
-title: "AR Showroom"
+title: AR Showroom
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # AR Showroom

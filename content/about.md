@@ -7,9 +7,6 @@ tags:
   - about
 publish: true
 ---
-
-# About
-
 I'm Lucas Guzman, a product designer with 15 years of making technology feel alive through motion, real-time 3D, and AR. I'm now focused on designing products for early-stage startups where I can own the experience end-to-end.
 
 ## Background

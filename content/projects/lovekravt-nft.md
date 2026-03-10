@@ -1,9 +1,11 @@
 ---
-title: "Lovekravt NFT"
+title: Lovekravt NFT
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # Lovekravt NFT

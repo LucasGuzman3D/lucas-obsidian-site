@@ -1,9 +1,11 @@
 ---
-title: "Road to Cartesia"
+title: Road to Cartesia
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # Road to Cartesia

@@ -9,9 +9,6 @@ tags:
   - product-design
 publish: true
 ---
-
-# AI Marketing Intern
-
 **Role:** Identified the workflow problem, designed the system, built the tool (Claude Code + Claude API + Grok + Imagen 4), and iterated with the Sophon marketing team through three major versions: news research, AI copywriting, and image generation.
 ![[ai-intern-cover.webp]]
 

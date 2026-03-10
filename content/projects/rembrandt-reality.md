@@ -5,9 +5,6 @@ status: needs-rewrite
 tags: [portfolio, project]
 publish: true
 ---
-
-# Rembrandt Reality
-
 ## Original content (scraped from Framer)
 
 LUCAS GUZMAN

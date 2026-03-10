@@ -1,9 +1,11 @@
 ---
-title: "Ledgerverse"
+title: Ledgerverse
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # Ledgerverse

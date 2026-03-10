@@ -1,9 +1,11 @@
 ---
-title: "AR Garments"
+title: AR Garments
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # AR Garments

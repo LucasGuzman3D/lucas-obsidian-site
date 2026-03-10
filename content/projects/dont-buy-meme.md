@@ -1,9 +1,11 @@
 ---
-title: "Don't Buy Meme"
+title: Don't Buy Meme
 date: 2024
 status: needs-rewrite
-tags: [portfolio, project]
-publish: true
+tags:
+  - portfolio
+  - project
+publish: false
 ---
 
 # Don't Buy Meme
