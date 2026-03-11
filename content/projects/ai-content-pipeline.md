@@ -1,5 +1,5 @@
 ---
-title: AI Marketing Intern
+title: AI Content Pipeline
 date: 2024
 status: draft
 tags:

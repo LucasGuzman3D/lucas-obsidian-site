@@ -59,45 +59,6 @@ On top of that, looking at the awesome quality of those images, it made push mys
 
 I’m super proud of the final piece! So, whether you're a fan of LOVEKRAVT or just appreciate the power of AI, I hope you enjoy my collab with AI. Thanks for watching!
 
-LET’S BUILD TOGETHER
-
-Contact
-
-SUBSCRIBE TO OUR NEWSLETTER
-
-Join our newsletter and stay up-to-date with our work! Delivered straight to your inbox.
-
-Subscribe Now
-
-Overview
-
-Home
-
-Service
-
-Project
-
-About Me
-
-About Team
-
-Testimonial
-
-Contact
-
-Socials
-
-Twitter
-
-Linkedin
-
-Instagram
-
-© 2024 LucasGuzman3D
-
-Terms and Conditions
-
-Privacy Policy
 
 ## Notes for rewrite
 

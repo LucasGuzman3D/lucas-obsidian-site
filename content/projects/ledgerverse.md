@@ -39,45 +39,6 @@ The Shrine
 
 Exclusive Accessories 
 
-LET’S BUILD TOGETHER
-
-Contact
-
-SUBSCRIBE TO OUR NEWSLETTER
-
-Join our newsletter and stay up-to-date with our work! Delivered straight to your inbox.
-
-Subscribe Now
-
-Overview
-
-Home
-
-Service
-
-Project
-
-About Me
-
-About Team
-
-Testimonial
-
-Contact
-
-Socials
-
-Twitter
-
-Linkedin
-
-Instagram
-
-© 2024 LucasGuzman3D
-
-Terms and Conditions
-
-Privacy Policy
 
 ## Notes for rewrite
 

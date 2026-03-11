@@ -34,45 +34,6 @@ https://www.instagram.com/ar/540052576874548
 
 This AR filter was made together with my buddies at Beyond Social.
 
-LET’S BUILD TOGETHER
-
-Contact
-
-SUBSCRIBE TO OUR NEWSLETTER
-
-Join our newsletter and stay up-to-date with our work! Delivered straight to your inbox.
-
-Subscribe Now
-
-Overview
-
-Home
-
-Service
-
-Project
-
-About Me
-
-About Team
-
-Testimonial
-
-Contact
-
-Socials
-
-Twitter
-
-Linkedin
-
-Instagram
-
-© 2024 LucasGuzman3D
-
-Terms and Conditions
-
-Privacy Policy
 
 ## Notes for rewrite
 
