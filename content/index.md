@@ -5,6 +5,6 @@ status: draft
 tags:
 publish: true
 ---
-15 years making technology feel alive through motion, real-time 3D, and AR. Now designing products for early-stage startups.
+15 years making technology feel alive. Now leading how teams build experiences using AI.
 
-*I build systems and experiences that make complex things feel simple, concrete, and alive. Currently looking for a **product designer** role where I can own the experience end-to-end.*
+*A creative leader with deep craft in motion, real-time 3D, and product psychology — optimising how teams design, build, and ship using AI workflows. Looking for a stable remote role where I can own creative direction end-to-end.*
