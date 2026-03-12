@@ -5,7 +5,7 @@ status: needs-rewrite
 tags:
   - portfolio
   - project
-publish: false
+publish: true
 ---
 ## The Problem
 
