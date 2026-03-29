@@ -2,7 +2,7 @@
 title: Lucas Guzman
 publish: true
 ---
-**AI-native creative direction** for companies that move fast.
+**AI-native Creative Director** for companies that move fast.
 
 15 years of craft depth in **motion design, real-time 3D, and product psychology**. One person operating at the scale of a **full creative team**.
 
