@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      LinkedIn: "https://linkedin.com/in/lucasguzman3d",
       GitHub: "https://github.com/LucasGuzman3D",
     },
   }),
@@ -21,7 +22,18 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about",
+      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about" || node.slugSegment === "services",
+      sortFn: (a, b) => {
+        // Folders before files
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+        // Both have dates: newest first
+        if (a.data?.date && b.data?.date) {
+          return new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+        }
+        // Fallback: alphabetical
+        return a.displayName.localeCompare(b.displayName)
+      },
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),
@@ -37,7 +49,18 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Explorer({
       title: "",
-      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about",
+      filterFn: (node) => node.slug.toLowerCase().startsWith("projects") || node.slugSegment === "about" || node.slugSegment === "services",
+      sortFn: (a, b) => {
+        // Folders before files
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+        // Both have dates: newest first
+        if (a.data?.date && b.data?.date) {
+          return new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+        }
+        // Fallback: alphabetical
+        return a.displayName.localeCompare(b.displayName)
+      },
       folderDefaultState: "collapsed",
       useSavedState: false,
     }),

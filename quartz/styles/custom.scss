@@ -14,6 +14,41 @@ button.title-button.explorer-toggle.desktop-explorer {
   display: none;
 }
 
+// Hide duplicate title on home page (page-title already shows "Lucas Guzman")
+body[data-slug="index"] .article-title {
+  display: none;
+}
+
+// Hide the auto-generated file listing on Projects folder page (feed replaces it)
+body[data-slug="Projects/index"] .page-listing {
+  display: none;
+}
+
+// Remove left border on transcluded content in Projects feed
+body[data-slug="Projects/index"] .transclude blockquote,
+body[data-slug="Projects/index"] .transclude {
+  border-left: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+// Full-width images on project pages and feed
+body[data-slug^="Projects/"] article img {
+  width: 100%;
+  height: auto;
+}
+
+// Transcluded project titles in feed: use Bulevar like article titles
+body[data-slug="Projects/index"] .transclude h1 {
+  font-family: "Bulevar", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  font-size: 4rem;
+  color: var(--dark) !important;
+  -webkit-text-fill-color: var(--dark);
+  margin: 0;
+}
+
 // Article title (from frontmatter): Bulevar, uppercase, 4rem
 .article-title {
   font-family: "Bulevar", sans-serif;

@@ -1,11 +1,12 @@
-# Lucas Guzman — Portfolio
+# Lucas Guzman — Creative Director
 
-Lucas Guzman is a designer with 15 years of experience in motion design,
-realtime engines, 3D, and interactive experiences, transitioning into
-product design with a focus on fintech, consumer crypto, and gamification.
+Lucas Guzman is a creative director offering AI-native creative direction,
+content production, and visual identity services through Void Control SL.
+Sectors: fintech, fashion-tech, gaming, creative agencies.
 
 ## Key pages
 
 - [Home](https://lucasguzman.dev): Overview and positioning
-- [Projects](https://lucasguzman.dev/projects): Full case study index
-- [About](https://lucasguzman.dev/about): Background and approach
+- [Services](https://lucasguzman.dev/services): Detailed service offerings
+- [About](https://lucasguzman.dev/about): Background, approach, and awards
+- [Projects](https://lucasguzman.dev/projects): Case studies and selected work
