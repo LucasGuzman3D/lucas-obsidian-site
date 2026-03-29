@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
           Powered by Void Control © {year}
         </p>
         <p>
-          <a href="mailto:contact@lucasguzman.dev">contact@lucasguzman.dev</a>
+          <a id="email-link" href="#" data-user="contact" data-domain="lucasguzman.dev">contact[at]lucasguzman.dev</a>
           {" · "}
           <a href="https://cal.eu/lucas-guzman/30min">Book a call</a>
         </p>
@@ -28,6 +28,16 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <script dangerouslySetInnerHTML={{__html: `
+          document.addEventListener('DOMContentLoaded', function() {
+            var el = document.getElementById('email-link');
+            if (el) {
+              var e = el.dataset.user + '@' + el.dataset.domain;
+              el.href = 'mailto:' + e;
+              el.textContent = e;
+            }
+          });
+        `}} />
       </footer>
     )
   }
